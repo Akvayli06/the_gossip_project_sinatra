@@ -1,0 +1,1 @@
+C'est bien de tout maîtriser, mais parfois, il est plus préférable d'avancer plus vite en laissant certaines choses s'automatiser. Sinatra est bien pour comprendre l'univers du web, mais quand on débute l'informatique, tu verras qu'il est ultra agréable de pouvoir s'appuyer sur des outils comme Rails qui te mâche le travail de base.
